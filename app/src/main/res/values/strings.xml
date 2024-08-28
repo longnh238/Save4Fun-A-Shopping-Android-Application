@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Save4Fun</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_account">Account</string>
+    <string name="nav_profile">My Profile</string>
+    <string name="nav_logout">Logout</string>
+    <string name="nav_list">List</string>
+    <string name="nav_product">Product</string>
+    <string name="nav_favourite">Favourite</string>
+    <string name="nav_blank" />
+    <string name="nav_about">About</string>
+    <string name="nav_open">Open Navigation Drawer</string>
+    <string name="nav_close">Close Navigation Drawer</string>
+    <string name="home_fragment">Home fragment</string>
+    <string name="profile_fragment">Profile fragment</string>
+    <string name="list_fragment">List fragment</string>
+    <string name="product_fragment">Product fragment</string>
+    <string name="favourite_fragment">Favourite fragment</string>
+    <string name="about_fragment">About fragment</string>
+    <string name="web_client_id">27005697692-e8jm76qeeflls5bc94ude6hj07irh3dj.apps.googleusercontent.com</string>
+</resources>

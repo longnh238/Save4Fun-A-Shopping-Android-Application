@@ -1,0 +1,14 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="false">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/gray" /> <!-- Change to the desired gray color -->
+            <corners android:radius="50dp" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/blue" />
+            <corners android:radius="50dp" />
+        </shape>
+    </item>
+</selector>
